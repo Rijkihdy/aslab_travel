@@ -47,7 +47,7 @@ class PopularDestination extends StatelessWidget {
                   color: Colors.black.withOpacity(0.8),
                   child: Padding(
                     padding: const EdgeInsets.all(12),
-                    child: Row(
+                     child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
