@@ -87,7 +87,7 @@ class _HomePageState extends State<HomePage> {
                 ),
               ),
             ),
-          ),
+          ),                                                                                                                                                                               
           SizedBox(height: 20),
           Padding(
             padding: EdgeInsets.symmetric(horizontal: 15),
